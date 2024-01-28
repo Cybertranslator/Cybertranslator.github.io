@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.example.com/</loc>
-    <lastmod>2024-01-28T16:08:30+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/posts/</loc>
-    <lastmod>2024-01-28T16:08:30+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/posts/chants_of_sennaar/</loc>
-    <lastmod>2024-01-28T16:08:30+08:00</lastmod>
+    <lastmod>2023-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -69,6 +59,11 @@
   </url><url>
     <loc>https://www.example.com/subsection2/markdown-syntax-2/</loc>
     <lastmod>2020-11-19T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/posts/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

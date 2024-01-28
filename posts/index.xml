@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog 6174</title>
+    <title>Example Site</title>
     <link>https://www.example.com/posts/</link>
-    <description>Recent content in Posts on Blog 6174</description>
+    <description>Recent content in Posts on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 28 Jan 2024 16:08:30 +0800</lastBuildDate><atom:link href="https://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>語言解謎遊戲體驗心得</title>
-      <link>https://www.example.com/posts/chants_of_sennaar/</link>
-      <pubDate>Sun, 28 Jan 2024 16:08:30 +0800</pubDate>
-      
-      <guid>https://www.example.com/posts/chants_of_sennaar/</guid>
-      <description>《Chants of Sennaar》</description>
-    </item>
-    
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2020 21:21:46 -0500</lastBuildDate><atom:link href="https://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide 2</title>
       <link>https://www.example.com/subsection2/markdown-syntax-2/</link>
