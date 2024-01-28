@@ -22,7 +22,7 @@
   
   
 
-<link rel="stylesheet" href="https://www.example.com/scss/main.min.css" />
+<link rel="stylesheet" href="/scss/main.min.css" />
 
 
   
@@ -37,17 +37,17 @@
 <meta name="author" content="John Doe">
 
 <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit.">
-<link rel="canonical" href="https://www.example.com/subsection/placeholder-text/">
+<link rel="canonical" href="/subsection/placeholder-text/">
 <meta property="og:locale" content="">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Placeholder Text and Feature Image">
 <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit.">
-<meta property="og:url" content="https://www.example.com/subsection/placeholder-text/">
+<meta property="og:url" content="/subsection/placeholder-text/">
 <meta property="article:published_time" content="2020-11-18T21:21:46-05:00">
   <meta property="article:modified_time" content="2020-11-18T21:21:46-05:00">
   
 
-<meta property="og:image" content="https://www.example.com/subsection/placeholder-text/screenshot.png"/>
+<meta property="og:image" content="/subsection/placeholder-text/screenshot.png"/>
   
     <meta property="og:image:alt" content="A screenshot of the Hugo Liftoff theme home page" />
   
@@ -65,7 +65,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:image" content="https://www.example.com/subsection/placeholder-text/screenshot.png"/>
+  <meta property="twitter:image" content="/subsection/placeholder-text/screenshot.png"/>
   
     <meta name="twitter:image:alt" content="A screenshot of the Hugo Liftoff theme home page">
   
@@ -85,13 +85,13 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.example.com/#/schema/person/1",
+      "@id": "/#/schema/person/1",
       "name":  null ,
-      "url": "https://www.example.com/",
+      "url": "/",
       "image": {
         "@type": "ImageObject",
-        "@id": "https://www.example.com/#/schema/image/1",
-        "url": "https://www.example.com/\u003cnil\u003e",
+        "@id": "/#/schema/image/1",
+        "url": "/\u003cnil\u003e",
         "width": null ,
         "height": null ,
         "caption":  null 
@@ -99,66 +99,57 @@
     },
     {
       "@type": "WebSite",
-      "@id": "https://www.example.com/#/schema/website/1",
-      "url": "https://www.example.com/",
+      "@id": "/#/schema/website/1",
+      "url": "/",
       "name": "Example Site",
       "description":  null ,
       "publisher": {
-        "@id": "https://www.example.com/#/schema/person/1"
+        "@id": "/#/schema/person/1"
       }
     },
     {
       "@type": "WebPage",
-      "@id": "https://www.example.com/subsection/placeholder-text/",
-      "url": "https://www.example.com/subsection/placeholder-text/",
+      "@id": "/subsection/placeholder-text/",
+      "url": "/subsection/placeholder-text/",
       "name": "Placeholder Text and Feature Image",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "isPartOf": {
-        "@id": "https://www.example.com/#/schema/website/1"
+        "@id": "/#/schema/website/1"
       },
       "about": {
-        "@id": "https://www.example.com/#/schema/person/1"
+        "@id": "/#/schema/person/1"
       },
       "datePublished": "2020-11-18T21:21:46-05:00",
       "dateModified": "2020-11-18T21:21:46-05:00",
       "breadcrumb": {
-        "@id": "https://www.example.com/subsection/placeholder-text/#/schema/breadcrumb/1"
+        "@id": "/subsection/placeholder-text/#/schema/breadcrumb/1"
       },
       "primaryImageOfPage": {
-        "@id": "https://www.example.com/subsection/placeholder-text/#/schema/image/2"
+        "@id": "/subsection/placeholder-text/#/schema/image/2"
       },
       "inLanguage":  null ,
       "potentialAction": [{
-        "@type": "ReadAction", "target": ["https://www.example.com/subsection/placeholder-text/"]
+        "@type": "ReadAction", "target": ["/subsection/placeholder-text/"]
       }]
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.example.com/subsection/placeholder-text/#/schema/breadcrumb/1",
+      "@id": "/subsection/placeholder-text/#/schema/breadcrumb/1",
       "name": "Breadcrumbs",
       "itemListElement": [{
         "@type": "ListItem",
         "position":  1 ,
         "item": {
           "@type": "WebPage",
-          "@id": "https://www.example.com/",
-          "url": "https://www.example.com/",
+          "@id": "/",
+          "url": "/",
           "name": "Home"
           }
         },{
         "@type": "ListItem",
         "position":  2 ,
         "item": {
-          "@type": "WebPage",
-          "@id": "https://www.example.com/subsection/",
-          "url": "https://www.example.com/subsection/",
-          "name": "Subsection"
-          }
-        },{
-        "@type": "ListItem",
-        "position":  3 ,
-        "item": {
-          "@id": "https://www.example.com/subsection/placeholder-text/"
+          "@id": "/subsectionplaceholder-text/"
           }
         }]
     },
@@ -167,25 +158,25 @@
       "@graph": [
         {
           "@type": "Article",
-          "@id": "https://www.example.com/#/schema/article/1",
+          "@id": "/#/schema/article/1",
           "headline": "Placeholder Text and Feature Image",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "isPartOf": {
-            "@id": "https://www.example.com/subsection/placeholder-text/"
+            "@id": "/subsection/placeholder-text/"
           },
           "mainEntityOfPage": {
-            "@id": "https://www.example.com/subsection/placeholder-text/"
+            "@id": "/subsection/placeholder-text/"
           },
           "datePublished": "2020-11-18T21:21:46-05:00",
           "dateModified": "2020-11-18T21:21:46-05:00",
           "author": {
-            "@id": "https://www.example.com/#/schema/person/1"
+            "@id": "/#/schema/person/1"
           },          
           "publisher": {
-            "@id": "https://www.example.com/#/schema/person/1"
+            "@id": "/#/schema/person/1"
           },
           "image": {
-            "@id": "https://www.example.com/subsection/placeholder-text/#/schema/image/2"
+            "@id": "/subsection/placeholder-text/#/schema/image/2"
           }
         }
       ]
@@ -194,9 +185,9 @@
       "@graph": [
         {
           "@type": "ImageObject",
-          "@id": "https://www.example.com/subsection/placeholder-text/#/schema/image/2",
-          "url": "https://www.example.com/subsection/placeholder-text/screenshot.png",
-          "contentUrl": "https://www.example.com/subsection/placeholder-text/screenshot.png",
+          "@id": "/subsection/placeholder-text/#/schema/image/2",
+          "url": "/subsection/placeholder-text/screenshot.png",
+          "contentUrl": "/subsection/placeholder-text/screenshot.png",
           "caption": "A screenshot of the Hugo Liftoff theme home page"
         }
       ]
@@ -211,7 +202,7 @@
 </head><body>
     <header class="container">
   <nav class="main-nav" id="js-navbar">
-    <a class="logo" href="https://www.example.com/">Example Site</a>
+    <a class="logo" href="/">Example Site</a>
     <ul class="menu" id="js-menu">
       
       
@@ -299,7 +290,7 @@
       
       <div class="post-list-categories">
         
-          <a href="https://www.example.com/categories/formatting/">Formatting</a>
+          <a href="/categories/formatting/">Formatting</a>
         
       </div>
       
@@ -309,9 +300,9 @@
     <div class="single-terms">
       
       
-      <a class="term" href="https://www.example.com/tags/markdown/">Markdown</a></li>
+      <a class="term" href="/tags/markdown/">Markdown</a></li>
       
-      <a class="term" href="https://www.example.com/tags/html/">HTML</a></li>
+      <a class="term" href="/tags/html/">HTML</a></li>
       
       
     </div>
@@ -388,9 +379,9 @@
       <div class="single-terms">
         
           
-          <a class="term" href="https://www.example.com/tags/markdown/">Markdown</a></li>
+          <a class="term" href="/tags/markdown/">Markdown</a></li>
           
-          <a class="term" href="https://www.example.com/tags/html/">HTML</a></li>
+          <a class="term" href="/tags/html/">HTML</a></li>
           
         
       </div>
@@ -436,7 +427,7 @@
     <h2>Read Next</h2>
     <div class="single-next-previous">
       
-        <a class="previous" href="https://www.example.com/subsection/see-also-read-next/">&laquo; &#34;See Also&#34; and &#34;Read Next&#34; Demo</a>
+        <a class="previous" href="/subsection/see-also-read-next/">&laquo; &#34;See Also&#34; and &#34;Read Next&#34; Demo</a>
       
       
     </div>
@@ -463,7 +454,7 @@
   
   <div class="section footer">
     <p class="footer-copyright">&copy; 2024 &middot; 
-      <a href="https://www.example.com/">Example Site</a>
+      <a href="/">Example Site</a>
       
     </p>
     
@@ -483,7 +474,7 @@
   
     
 
-<script src="https://www.example.com/main.min.js"></script>
+<script src="/main.min.js"></script>
 
 
 
