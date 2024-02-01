@@ -7,7 +7,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cybertranslator.github.io/acgs/apex-3000%E5%B0%8F%E6%99%82%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://cybertranslator.github.io/acgs/apex-%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/</loc>
     <lastmod>2024-01-31T14:47:22+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -67,58 +67,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cybertranslator.github.io/posts/gamer/</loc>
-    <lastmod>2024-01-30T12:48:45+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/tags/games/</loc>
-    <lastmod>2024-01-30T12:48:45+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/categories/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cybertranslator.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cybertranslator.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://cybertranslator.github.io/tags/emoji/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/posts/emoji-support/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/categories/formatting/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://cybertranslator.github.io/project-types/personal/</loc>
-    <lastmod>2020-02-20T03:52:30-05:00</lastmod>
+    <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cybertranslator.github.io/projects/portfolio-project-2/</loc>
-    <lastmod>2020-02-20T03:52:30-05:00</lastmod>
+    <loc>https://cybertranslator.github.io/projects/portfolio-project-1/</loc>
+    <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://cybertranslator.github.io/project-types/</loc>
-    <lastmod>2020-02-20T03:52:30-05:00</lastmod>
+    <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -133,16 +93,29 @@
                 />
   </url><url>
     <loc>https://cybertranslator.github.io/projects/</loc>
-    <lastmod>2020-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/projects/portfolio-project-1/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://cybertranslator.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cybertranslator.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cybertranslator.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://cybertranslator.github.io/drone/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -163,5 +136,9 @@
                 hreflang="zh"
                 href="https://cybertranslator.github.io/series/"
                 />
+  </url><url>
+    <loc>https://cybertranslator.github.io/posts/translate/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

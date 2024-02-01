@@ -6,13 +6,13 @@
     <description>Recent content in Project Types on Cybertranslator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Feb 2020 03:52:30 -0500</lastBuildDate><atom:link href="https://cybertranslator.github.io/project-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Feb 2019 03:52:30 -0500</lastBuildDate><atom:link href="https://cybertranslator.github.io/project-types/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apex 3000小時心得</title>
-      <link>https://cybertranslator.github.io/acgs/apex-3000%E5%B0%8F%E6%99%82%E5%BF%83%E5%BE%97/</link>
+      <title>Apex 自我介紹</title>
+      <link>https://cybertranslator.github.io/acgs/apex-%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/</link>
       <pubDate>Wed, 31 Jan 2024 14:47:22 +0800</pubDate>
       
-      <guid>https://cybertranslator.github.io/acgs/apex-3000%E5%B0%8F%E6%99%82%E5%BF%83%E5%BE%97/</guid>
+      <guid>https://cybertranslator.github.io/acgs/apex-%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/</guid>
       <description></description>
     </item>
     
@@ -26,21 +26,12 @@
     </item>
     
     <item>
-      <title>Gamer</title>
-      <link>https://cybertranslator.github.io/posts/gamer/</link>
-      <pubDate>Tue, 30 Jan 2024 12:48:45 +0800</pubDate>
+      <title>translate</title>
+      <link>https://cybertranslator.github.io/posts/translate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cybertranslator.github.io/posts/gamer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://cybertranslator.github.io/posts/emoji-support/</link>
-      <pubDate>Tue, 17 Nov 2020 21:21:46 -0500</pubDate>
-      
-      <guid>https://cybertranslator.github.io/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo.</description>
+      <guid>https://cybertranslator.github.io/posts/translate/</guid>
+      <description>有關翻譯的文章都在這裡喔～</description>
     </item>
     
   </channel>
