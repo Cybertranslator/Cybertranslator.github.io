@@ -67,36 +67,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cybertranslator.github.io/project-types/personal/</loc>
-    <lastmod>2019-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/projects/portfolio-project-1/</loc>
-    <lastmod>2019-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/project-types/</loc>
-    <lastmod>2019-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cybertranslator.github.io/en/project-types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cybertranslator.github.io/project-types/"
-                />
-  </url><url>
-    <loc>https://cybertranslator.github.io/projects/</loc>
-    <lastmod>2019-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://cybertranslator.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -123,6 +93,24 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://cybertranslator.github.io/project-types/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cybertranslator.github.io/en/project-types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cybertranslator.github.io/project-types/"
+                />
+  </url><url>
+    <loc>https://cybertranslator.github.io/projects/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://cybertranslator.github.io/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -137,7 +125,7 @@
                 href="https://cybertranslator.github.io/series/"
                 />
   </url><url>
-    <loc>https://cybertranslator.github.io/posts/translate/</loc>
+    <loc>https://cybertranslator.github.io/translate/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
