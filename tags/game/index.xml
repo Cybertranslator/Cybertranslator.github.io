@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybertranslator</title>
-    <link>https://cybertranslator.github.io/translate/</link>
-    <description>Recent content in translate on Cybertranslator</description>
+    <link>https://cybertranslator.github.io/tags/game/</link>
+    <description>Recent content in Game on Cybertranslator</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language><atom:link href="https://cybertranslator.github.io/translate/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 12 Jan 2024 00:05:11 +0800</lastBuildDate><atom:link href="https://cybertranslator.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>阿里山空拍申請</title>
       <link>https://cybertranslator.github.io/drone/%E9%98%BF%E9%87%8C%E5%B1%B1%E7%A9%BA%E6%8B%8D%E7%94%B3%E8%AB%8B/</link>

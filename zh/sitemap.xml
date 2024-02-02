@@ -2,33 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cybertranslator.github.io/acgs/</loc>
-    <lastmod>2024-01-31T14:47:22+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/acgs/apex-%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/</loc>
-    <lastmod>2024-01-31T14:47:22+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/tags/fps/</loc>
-    <lastmod>2024-01-31T14:47:22+08:00</lastmod>
+    <loc>https://cybertranslator.github.io/drone/</loc>
+    <lastmod>2024-02-01T13:53:09+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://cybertranslator.github.io/posts/</loc>
-    <lastmod>2024-01-31T14:47:22+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/tags/pvp/</loc>
-    <lastmod>2024-01-31T14:47:22+08:00</lastmod>
+    <lastmod>2024-02-01T13:53:09+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://cybertranslator.github.io/tags/</loc>
-    <lastmod>2024-01-31T14:47:22+08:00</lastmod>
+    <lastmod>2024-02-01T13:53:09+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -42,8 +27,13 @@
                 href="https://cybertranslator.github.io/tags/"
                 />
   </url><url>
+    <loc>https://cybertranslator.github.io/drone/%E9%98%BF%E9%87%8C%E5%B1%B1%E7%A9%BA%E6%8B%8D%E7%94%B3%E8%AB%8B/</loc>
+    <lastmod>2024-02-01T13:53:09+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://cybertranslator.github.io/</loc>
-    <lastmod>2024-01-31T14:47:22+08:00</lastmod>
+    <lastmod>2024-02-01T13:53:09+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -57,6 +47,11 @@
                 href="https://cybertranslator.github.io/"
                 />
   </url><url>
+    <loc>https://cybertranslator.github.io/tags/%E7%84%A1%E4%BA%BA%E6%A9%9F/</loc>
+    <lastmod>2024-02-01T13:53:09+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://cybertranslator.github.io/tags/terminal/</loc>
     <lastmod>2024-01-30T13:06:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -64,6 +59,26 @@
   </url><url>
     <loc>https://cybertranslator.github.io/posts/filetree/</loc>
     <lastmod>2024-01-30T13:06:06+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/acgs/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/acgs/chants-of-sennaar/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/tags/game/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/tags/%E7%BF%BB%E8%AD%AF/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -84,10 +99,6 @@
                 hreflang="zh"
                 href="https://cybertranslator.github.io/categories/"
                 />
-  </url><url>
-    <loc>https://cybertranslator.github.io/drone/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://cybertranslator.github.io/contact/</loc>
     <changefreq>monthly</changefreq>

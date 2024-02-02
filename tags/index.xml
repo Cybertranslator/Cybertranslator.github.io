@@ -6,13 +6,13 @@
     <description>Recent content in Tags on Cybertranslator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 31 Jan 2024 14:47:22 +0800</lastBuildDate><atom:link href="https://cybertranslator.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 13:53:09 +0800</lastBuildDate><atom:link href="https://cybertranslator.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apex 自我介紹</title>
-      <link>https://cybertranslator.github.io/acgs/apex-%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/</link>
-      <pubDate>Wed, 31 Jan 2024 14:47:22 +0800</pubDate>
+      <title>阿里山空拍申請</title>
+      <link>https://cybertranslator.github.io/drone/%E9%98%BF%E9%87%8C%E5%B1%B1%E7%A9%BA%E6%8B%8D%E7%94%B3%E8%AB%8B/</link>
+      <pubDate>Thu, 01 Feb 2024 13:53:09 +0800</pubDate>
       
-      <guid>https://cybertranslator.github.io/acgs/apex-%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/</guid>
+      <guid>https://cybertranslator.github.io/drone/%E9%98%BF%E9%87%8C%E5%B1%B1%E7%A9%BA%E6%8B%8D%E7%94%B3%E8%AB%8B/</guid>
       <description></description>
     </item>
     
@@ -23,6 +23,15 @@
       
       <guid>https://cybertranslator.github.io/posts/filetree/</guid>
       <description>使用 tree 指令</description>
+    </item>
+    
+    <item>
+      <title>Chants of Sennaar</title>
+      <link>https://cybertranslator.github.io/acgs/chants-of-sennaar/</link>
+      <pubDate>Fri, 12 Jan 2024 00:05:11 +0800</pubDate>
+      
+      <guid>https://cybertranslator.github.io/acgs/chants-of-sennaar/</guid>
+      <description></description>
     </item>
     
   </channel>
