@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cybertranslator.github.io/posts/</loc>
-    <lastmod>2024-02-04T15:43:08+08:00</lastmod>
+    <lastmod>2024-01-30T13:06:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://cybertranslator.github.io/tags/</loc>
-    <lastmod>2024-02-04T15:43:08+08:00</lastmod>
+    <lastmod>2024-01-30T13:06:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -22,13 +22,13 @@
                 href="https://cybertranslator.github.io/tags/"
                 />
   </url><url>
-    <loc>https://cybertranslator.github.io/posts/%E3%84%98%E3%84%A8%E3%84%9A%CB%8B%E5%86%B0/</loc>
-    <lastmod>2024-02-04T15:43:08+08:00</lastmod>
+    <loc>https://cybertranslator.github.io/tags/terminal/</loc>
+    <lastmod>2024-01-30T13:06:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://cybertranslator.github.io/</loc>
-    <lastmod>2024-02-04T15:43:08+08:00</lastmod>
+    <lastmod>2024-01-30T13:06:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -42,31 +42,6 @@
                 href="https://cybertranslator.github.io/"
                 />
   </url><url>
-    <loc>https://cybertranslator.github.io/tags/%E8%A9%A9/</loc>
-    <lastmod>2024-02-04T15:43:08+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/drone/</loc>
-    <lastmod>2024-02-04T00:50:17+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/tags/uav/</loc>
-    <lastmod>2024-02-04T00:50:17+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/drone/%E6%B0%91%E8%88%AA%E5%B1%80%E8%B3%87%E6%96%99%E5%BA%AB%E4%B8%AD%E7%9A%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%BB%A0%E5%95%86%E5%90%8D%E5%96%AE/</loc>
-    <lastmod>2024-02-04T00:50:17+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/tags/terminal/</loc>
-    <lastmod>2024-01-30T13:06:06+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://cybertranslator.github.io/posts/filetree/</loc>
     <lastmod>2024-01-30T13:06:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -77,26 +52,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cybertranslator.github.io/acgs/chants-of-sennaar/</loc>
-    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/tags/game/</loc>
-    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/tags/%E7%BF%BB%E8%AD%AF/</loc>
-    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cybertranslator.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://cybertranslator.github.io/categories/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -109,6 +66,34 @@
                 hreflang="zh"
                 href="https://cybertranslator.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://cybertranslator.github.io/acgs/chants-of-sennaar/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/categories/game/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/tags/pc/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/categories/%E7%BF%BB%E8%AD%AF/</loc>
+    <lastmod>2024-01-12T00:05:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cybertranslator.github.io/drone/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://cybertranslator.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
